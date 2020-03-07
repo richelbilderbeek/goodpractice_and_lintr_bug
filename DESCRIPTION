@@ -1,0 +1,23 @@
+Package: galb
+Title: Goodpractice And Lintr Bug
+Version: 0.1
+Authors@R: c(
+    person("Richèl J.C.", "Bilderbeek", email = "richel@richelbilderbeek.nl", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-1107-7049")))
+Maintainer: Richèl J.C. Bilderbeek <richel@richelbilderbeek.nl>
+Description: 'lintr' is a great package.
+    'goodpractice' is a great package.
+    Their combination, however, results in a bug.
+    This package is a reprex to do so.
+License: GPL-3
+LazyData: true
+RoxygenNote: 7.0.2
+VignetteBuilder: knitr
+URL: https://github.com/richelbilderbeek/goodpractice_and_lintr_bug
+BugReports: https://github.com/richelbilderbeek/goodpractice_and_lintr_bug/issues
+Imports:
+Suggests:
+    lintr,
+    testthat (>= 2.1.0)
+Language: en-US
+Encoding: UTF-8
+
