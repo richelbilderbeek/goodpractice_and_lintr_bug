@@ -10,8 +10,6 @@ Description: 'lintr' is a great package.
     This package is a reprex to do so.
 License: GPL-3
 LazyData: true
-RoxygenNote: 7.0.2
-VignetteBuilder: knitr
 URL: https://github.com/richelbilderbeek/goodpractice_and_lintr_bug
 BugReports: https://github.com/richelbilderbeek/goodpractice_and_lintr_bug/issues
 Imports:
